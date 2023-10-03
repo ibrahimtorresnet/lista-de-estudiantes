@@ -1,0 +1,24 @@
+h1 { color: aliceblue;
+     text-align:center;
+    }
+table {color: aliceblue;
+       font-size: 17px;
+       table-layout: fixed;
+      margin: 1px auto;}
+body { background-color: black;
+       margin: 8px;
+       border: 05px;
+       padding: 80px;
+       
+       box-sizing: border-box;
+       background: linear-gradient(rgb(18, 146, 219));
+}
+    th{padding: 15px;
+        font-weight:100 ;
+    text-transform:uppercase;} 
+        td{padding: 15px;
+         border-bottom: solid 3px  rgb(18, 146, 219) ;}
+        div{
+            background-color: rgb(25, 0, 165);}
+            thead{ background:rgb(18, 146, 219) ;}
+            tr:hover {background-color: rgb(18, 146, 219);}
